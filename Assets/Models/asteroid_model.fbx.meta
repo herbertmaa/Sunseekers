@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: a836c5389385fa542a1a58c1612f29fc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: asteroidGround
+    100004: group1
+    100006: group2
+    100008: group3
+    100010: group4
+    100012: group5
+    100014: rock1
+    100016: rock10
+    100018: rock10 1
+    100020: rock10 10
+    100022: rock10 11
+    100024: rock10 12
+    100026: rock10 13
+    100028: rock10 14
+    100030: rock10 15
+    100032: rock10 16
+    100034: rock10 17
+    100036: rock10 2
+    100038: rock10 3
+    100040: rock10 4
+    100042: rock10 5
+    100044: rock10 6
+    100046: rock10 7
+    100048: rock10 8
+    100050: rock10 9
+    100052: rock2
+    100054: rock2 1
+    100056: rock2 10
+    100058: rock2 11
+    100060: rock2 12
+    100062: rock2 13
+    100064: rock2 14
+    100066: rock2 15
+    100068: rock2 16
+    100070: rock2 17
+    100072: rock2 2
+    100074: rock2 3
+    100076: rock2 4
+    100078: rock2 5
+    100080: rock2 6
+    100082: rock2 7
+    100084: rock2 8
+    100086: rock2 9
+    100088: rock3
+    100090: rock3 1
+    100092: rock3 10
+    100094: rock3 11
+    100096: rock3 12
+    100098: rock3 13
+    100100: rock3 14
+    100102: rock3 15
+    100104: rock3 16
+    100106: rock3 17
+    100108: rock3 2
+    100110: rock3 3
+    100112: rock3 4
+    100114: rock3 5
+    100116: rock3 6
+    100118: rock3 7
+    100120: rock3 8
+    100122: rock3 9
+    100124: rock4
+    100126: rock5
+    100128: rock5 1
+    100130: rock5 2
+    100132: rock5 3
+    100134: rock5 4
+    100136: rock5 5
+    100138: rock5 6
+    100140: rock5 7
+    100142: rock5 8
+    100144: rock6
+    100146: rock6 1
+    100148: rock6 2
+    100150: rock6 3
+    100152: rock6 4
+    100154: rock6 5
+    100156: rock6 6
+    100158: rock6 7
+    100160: rock6 8
+    100162: rock7
+    100164: rock7 1
+    100166: rock7 2
+    100168: rock7 3
+    100170: rock7 4
+    100172: rock7 5
+    100174: rock7 6
+    100176: rock7 7
+    100178: rock7 8
+    100180: rock8
+    100182: rock8 1
+    100184: rock8 10
+    100186: rock8 11
+    100188: rock8 12
+    100190: rock8 13
+    100192: rock8 14
+    100194: rock8 15
+    100196: rock8 16
+    100198: rock8 17
+    100200: rock8 2
+    100202: rock8 3
+    100204: rock8 4
+    100206: rock8 5
+    100208: rock8 6
+    100210: rock8 7
+    100212: rock8 8
+    100214: rock8 9
+    100216: rock9
+    100218: rock9 1
+    100220: rock9 10
+    100222: rock9 11
+    100224: rock9 12
+    100226: rock9 13
+    100228: rock9 14
+    100230: rock9 15
+    100232: rock9 16
+    100234: rock9 17
+    100236: rock9 2
+    100238: rock9 3
+    100240: rock9 4
+    100242: rock9 5
+    100244: rock9 6
+    100246: rock9 7
+    100248: rock9 8
+    100250: rock9 9
+    100252: rockFormation1
+    100254: rockFormation1 1
+    100256: rockFormation1 2
+    100258: rockFormation1 3
+    100260: rockFormation10
+    100262: rockFormation10 1
+    100264: rockFormation10 2
+    100266: rockFormation10 3
+    100268: rockFormation11
+    100270: rockFormation12
+    100272: rockFormation13
+    100274: rockFormation14
+    100276: rockFormation15
+    100278: rockFormation2
+    100280: rockFormation2 1
+    100282: rockFormation2 2
+    100284: rockFormation2 3
+    100286: rockFormation3
+    100288: rockFormation3 1
+    100290: rockFormation3 2
+    100292: rockFormation3 3
+    100294: rockFormation4
+    100296: rockFormation4 1
+    100298: rockFormation4 2
+    100300: rockFormation4 3
+    100302: rockFormation5
+    100304: rockFormation5 1
+    100306: rockFormation5 2
+    100308: rockFormation5 3
+    100310: rockFormation6
+    100312: rockFormation6 1
+    100314: rockFormation6 2
+    100316: rockFormation6 3
+    100318: rockFormation7
+    100320: rockFormation7 1
+    100322: rockFormation7 2
+    100324: rockFormation7 3
+    100326: rockFormation8
+    100328: rockFormation8 1
+    100330: rockFormation8 2
+    100332: rockFormation8 3
+    100334: rockFormation9
+    100336: rockFormation9 1
+    100338: rockFormation9 2
+    100340: rockFormation9 3
+    100342: pCylinder1
+    100344: pPlane1
+    100346: terrain
+    100348: transform1
+    100350: cave
+    100352: bridge
+    400000: //RootNode
+    400002: asteroidGround
+    400004: group1
+    400006: group2
+    400008: group3
+    400010: group4
+    400012: group5
+    400014: rock1
+    400016: rock10
+    400018: rock10 1
+    400020: rock10 10
+    400022: rock10 11
+    400024: rock10 12
+    400026: rock10 13
+    400028: rock10 14
+    400030: rock10 15
+    400032: rock10 16
+    400034: rock10 17
+    400036: rock10 2
+    400038: rock10 3
+    400040: rock10 4
+    400042: rock10 5
+    400044: rock10 6
+    400046: rock10 7
+    400048: rock10 8
+    400050: rock10 9
+    400052: rock2
+    400054: rock2 1
+    400056: rock2 10
+    400058: rock2 11
+    400060: rock2 12
+    400062: rock2 13
+    400064: rock2 14
+    400066: rock2 15
+    400068: rock2 16
+    400070: rock2 17
+    400072: rock2 2
+    400074: rock2 3
+    400076: rock2 4
+    400078: rock2 5
+    400080: rock2 6
+    400082: rock2 7
+    400084: rock2 8
+    400086: rock2 9
+    400088: rock3
+    400090: rock3 1
+    400092: rock3 10
+    400094: rock3 11
+    400096: rock3 12
+    400098: rock3 13
+    400100: rock3 14
+    400102: rock3 15
+    400104: rock3 16
+    400106: rock3 17
+    400108: rock3 2
+    400110: rock3 3
+    400112: rock3 4
+    400114: rock3 5
+    400116: rock3 6
+    400118: rock3 7
+    400120: rock3 8
+    400122: rock3 9
+    400124: rock4
+    400126: rock5
+    400128: rock5 1
+    400130: rock5 2
+    400132: rock5 3
+    400134: rock5 4
+    400136: rock5 5
+    400138: rock5 6
+    400140: rock5 7
+    400142: rock5 8
+    400144: rock6
+    400146: rock6 1
+    400148: rock6 2
+    400150: rock6 3
+    400152: rock6 4
+    400154: rock6 5
+    400156: rock6 6
+    400158: rock6 7
+    400160: rock6 8
+    400162: rock7
+    400164: rock7 1
+    400166: rock7 2
+    400168: rock7 3
+    400170: rock7 4
+    400172: rock7 5
+    400174: rock7 6
+    400176: rock7 7
+    400178: rock7 8
+    400180: rock8
+    400182: rock8 1
+    400184: rock8 10
+    400186: rock8 11
+    400188: rock8 12
+    400190: rock8 13
+    400192: rock8 14
+    400194: rock8 15
+    400196: rock8 16
+    400198: rock8 17
+    400200: rock8 2
+    400202: rock8 3
+    400204: rock8 4
+    400206: rock8 5
+    400208: rock8 6
+    400210: rock8 7
+    400212: rock8 8
+    400214: rock8 9
+    400216: rock9
+    400218: rock9 1
+    400220: rock9 10
+    400222: rock9 11
+    400224: rock9 12
+    400226: rock9 13
+    400228: rock9 14
+    400230: rock9 15
+    400232: rock9 16
+    400234: rock9 17
+    400236: rock9 2
+    400238: rock9 3
+    400240: rock9 4
+    400242: rock9 5
+    400244: rock9 6
+    400246: rock9 7
+    400248: rock9 8
+    400250: rock9 9
+    400252: rockFormation1
+    400254: rockFormation1 1
+    400256: rockFormation1 2
+    400258: rockFormation1 3
+    400260: rockFormation10
+    400262: rockFormation10 1
+    400264: rockFormation10 2
+    400266: rockFormation10 3
+    400268: rockFormation11
+    400270: rockFormation12
+    400272: rockFormation13
+    400274: rockFormation14
+    400276: rockFormation15
+    400278: rockFormation2
+    400280: rockFormation2 1
+    400282: rockFormation2 2
+    400284: rockFormation2 3
+    400286: rockFormation3
+    400288: rockFormation3 1
+    400290: rockFormation3 2
+    400292: rockFormation3 3
+    400294: rockFormation4
+    400296: rockFormation4 1
+    400298: rockFormation4 2
+    400300: rockFormation4 3
+    400302: rockFormation5
+    400304: rockFormation5 1
+    400306: rockFormation5 2
+    400308: rockFormation5 3
+    400310: rockFormation6
+    400312: rockFormation6 1
+    400314: rockFormation6 2
+    400316: rockFormation6 3
+    400318: rockFormation7
+    400320: rockFormation7 1
+    400322: rockFormation7 2
+    400324: rockFormation7 3
+    400326: rockFormation8
+    400328: rockFormation8 1
+    400330: rockFormation8 2
+    400332: rockFormation8 3
+    400334: rockFormation9
+    400336: rockFormation9 1
+    400338: rockFormation9 2
+    400340: rockFormation9 3
+    400342: pCylinder1
+    400344: pPlane1
+    400346: terrain
+    400348: transform1
+    400350: cave
+    400352: bridge
+    2100000: lambert1
+    2100002: lambert3
+    2300000: asteroidGround
+    2300002: rock1
+    2300004: rock10
+    2300006: rock10 1
+    2300008: rock10 10
+    2300010: rock10 11
+    2300012: rock10 12
+    2300014: rock10 13
+    2300016: rock10 14
+    2300018: rock10 15
+    2300020: rock10 16
+    2300022: rock10 17
+    2300024: rock10 2
+    2300026: rock10 3
+    2300028: rock10 4
+    2300030: rock10 5
+    2300032: rock10 6
+    2300034: rock10 7
+    2300036: rock10 8
+    2300038: rock10 9
+    2300040: rock2
+    2300042: rock2 1
+    2300044: rock2 10
+    2300046: rock2 11
+    2300048: rock2 12
+    2300050: rock2 13
+    2300052: rock2 14
+    2300054: rock2 15
+    2300056: rock2 16
+    2300058: rock2 17
+    2300060: rock2 2
+    2300062: rock2 3
+    2300064: rock2 4
+    2300066: rock2 5
+    2300068: rock2 6
+    2300070: rock2 7
+    2300072: rock2 8
+    2300074: rock2 9
+    2300076: rock3
+    2300078: rock3 1
+    2300080: rock3 10
+    2300082: rock3 11
+    2300084: rock3 12
+    2300086: rock3 13
+    2300088: rock3 14
+    2300090: rock3 15
+    2300092: rock3 16
+    2300094: rock3 17
+    2300096: rock3 2
+    2300098: rock3 3
+    2300100: rock3 4
+    2300102: rock3 5
+    2300104: rock3 6
+    2300106: rock3 7
+    2300108: rock3 8
+    2300110: rock3 9
+    2300112: rock4
+    2300114: rock5
+    2300116: rock5 1
+    2300118: rock5 2
+    2300120: rock5 3
+    2300122: rock5 4
+    2300124: rock5 5
+    2300126: rock5 6
+    2300128: rock5 7
+    2300130: rock5 8
+    2300132: rock6
+    2300134: rock6 1
+    2300136: rock6 2
+    2300138: rock6 3
+    2300140: rock6 4
+    2300142: rock6 5
+    2300144: rock6 6
+    2300146: rock6 7
+    2300148: rock6 8
+    2300150: rock7
+    2300152: rock7 1
+    2300154: rock7 2
+    2300156: rock7 3
+    2300158: rock7 4
+    2300160: rock7 5
+    2300162: rock7 6
+    2300164: rock7 7
+    2300166: rock7 8
+    2300168: rock8
+    2300170: rock8 1
+    2300172: rock8 10
+    2300174: rock8 11
+    2300176: rock8 12
+    2300178: rock8 13
+    2300180: rock8 14
+    2300182: rock8 15
+    2300184: rock8 16
+    2300186: rock8 17
+    2300188: rock8 2
+    2300190: rock8 3
+    2300192: rock8 4
+    2300194: rock8 5
+    2300196: rock8 6
+    2300198: rock8 7
+    2300200: rock8 8
+    2300202: rock8 9
+    2300204: rock9
+    2300206: rock9 1
+    2300208: rock9 10
+    2300210: rock9 11
+    2300212: rock9 12
+    2300214: rock9 13
+    2300216: rock9 14
+    2300218: rock9 15
+    2300220: rock9 16
+    2300222: rock9 17
+    2300224: rock9 2
+    2300226: rock9 3
+    2300228: rock9 4
+    2300230: rock9 5
+    2300232: rock9 6
+    2300234: rock9 7
+    2300236: rock9 8
+    2300238: rock9 9
+    2300240: //RootNode
+    2300242: pCylinder1
+    2300244: terrain
+    2300246: cave
+    2300248: bridge
+    3300000: asteroidGround
+    3300002: rock1
+    3300004: rock10
+    3300006: rock10 1
+    3300008: rock10 10
+    3300010: rock10 11
+    3300012: rock10 12
+    3300014: rock10 13
+    3300016: rock10 14
+    3300018: rock10 15
+    3300020: rock10 16
+    3300022: rock10 17
+    3300024: rock10 2
+    3300026: rock10 3
+    3300028: rock10 4
+    3300030: rock10 5
+    3300032: rock10 6
+    3300034: rock10 7
+    3300036: rock10 8
+    3300038: rock10 9
+    3300040: rock2
+    3300042: rock2 1
+    3300044: rock2 10
+    3300046: rock2 11
+    3300048: rock2 12
+    3300050: rock2 13
+    3300052: rock2 14
+    3300054: rock2 15
+    3300056: rock2 16
+    3300058: rock2 17
+    3300060: rock2 2
+    3300062: rock2 3
+    3300064: rock2 4
+    3300066: rock2 5
+    3300068: rock2 6
+    3300070: rock2 7
+    3300072: rock2 8
+    3300074: rock2 9
+    3300076: rock3
+    3300078: rock3 1
+    3300080: rock3 10
+    3300082: rock3 11
+    3300084: rock3 12
+    3300086: rock3 13
+    3300088: rock3 14
+    3300090: rock3 15
+    3300092: rock3 16
+    3300094: rock3 17
+    3300096: rock3 2
+    3300098: rock3 3
+    3300100: rock3 4
+    3300102: rock3 5
+    3300104: rock3 6
+    3300106: rock3 7
+    3300108: rock3 8
+    3300110: rock3 9
+    3300112: rock4
+    3300114: rock5
+    3300116: rock5 1
+    3300118: rock5 2
+    3300120: rock5 3
+    3300122: rock5 4
+    3300124: rock5 5
+    3300126: rock5 6
+    3300128: rock5 7
+    3300130: rock5 8
+    3300132: rock6
+    3300134: rock6 1
+    3300136: rock6 2
+    3300138: rock6 3
+    3300140: rock6 4
+    3300142: rock6 5
+    3300144: rock6 6
+    3300146: rock6 7
+    3300148: rock6 8
+    3300150: rock7
+    3300152: rock7 1
+    3300154: rock7 2
+    3300156: rock7 3
+    3300158: rock7 4
+    3300160: rock7 5
+    3300162: rock7 6
+    3300164: rock7 7
+    3300166: rock7 8
+    3300168: rock8
+    3300170: rock8 1
+    3300172: rock8 10
+    3300174: rock8 11
+    3300176: rock8 12
+    3300178: rock8 13
+    3300180: rock8 14
+    3300182: rock8 15
+    3300184: rock8 16
+    3300186: rock8 17
+    3300188: rock8 2
+    3300190: rock8 3
+    3300192: rock8 4
+    3300194: rock8 5
+    3300196: rock8 6
+    3300198: rock8 7
+    3300200: rock8 8
+    3300202: rock8 9
+    3300204: rock9
+    3300206: rock9 1
+    3300208: rock9 10
+    3300210: rock9 11
+    3300212: rock9 12
+    3300214: rock9 13
+    3300216: rock9 14
+    3300218: rock9 15
+    3300220: rock9 16
+    3300222: rock9 17
+    3300224: rock9 2
+    3300226: rock9 3
+    3300228: rock9 4
+    3300230: rock9 5
+    3300232: rock9 6
+    3300234: rock9 7
+    3300236: rock9 8
+    3300238: rock9 9
+    3300240: //RootNode
+    3300242: pCylinder1
+    3300244: terrain
+    3300246: cave
+    3300248: bridge
+    4300000: asteroidGround
+    4300002: rock1
+    4300004: rock4
+    4300006: rock7
+    4300008: rock5
+    4300010: rock6
+    4300012: rock8
+    4300014: rock9
+    4300016: rock10
+    4300018: rock8
+    4300020: rock9
+    4300022: rock10
+    4300024: rock2
+    4300026: rock3
+    4300028: rock2
+    4300030: rock3
+    4300032: rock7
+    4300034: rock5
+    4300036: rock6
+    4300038: rock8
+    4300040: rock9
+    4300042: rock10
+    4300044: rock8
+    4300046: rock9
+    4300048: rock10
+    4300050: rock2
+    4300052: rock3
+    4300054: rock2
+    4300056: rock3
+    4300058: rock7
+    4300060: rock5
+    4300062: rock6
+    4300064: rock8
+    4300066: rock9
+    4300068: rock10
+    4300070: rock8
+    4300072: rock9
+    4300074: rock10
+    4300076: rock2
+    4300078: rock3
+    4300080: rock2
+    4300082: rock3
+    4300084: rock7
+    4300086: rock5
+    4300088: rock6
+    4300090: rock8
+    4300092: rock9
+    4300094: rock10
+    4300096: rock8
+    4300098: rock9
+    4300100: rock10
+    4300102: rock2
+    4300104: rock3
+    4300106: rock2
+    4300108: rock3
+    4300110: rock7
+    4300112: rock5
+    4300114: rock6
+    4300116: rock8
+    4300118: rock9
+    4300120: rock10
+    4300122: rock8
+    4300124: rock9
+    4300126: rock10
+    4300128: rock2
+    4300130: rock3
+    4300132: rock2
+    4300134: rock3
+    4300136: rock7
+    4300138: rock5
+    4300140: rock6
+    4300142: rock8
+    4300144: rock9
+    4300146: rock10
+    4300148: rock8
+    4300150: rock9
+    4300152: rock10
+    4300154: rock2
+    4300156: rock3
+    4300158: rock2
+    4300160: rock3
+    4300162: rock7
+    4300164: rock5
+    4300166: rock6
+    4300168: rock8
+    4300170: rock9
+    4300172: rock10
+    4300174: rock8
+    4300176: rock9
+    4300178: rock10
+    4300180: rock2
+    4300182: rock3
+    4300184: rock2
+    4300186: rock3
+    4300188: rock7
+    4300190: rock5
+    4300192: rock6
+    4300194: rock8
+    4300196: rock9
+    4300198: rock10
+    4300200: rock8
+    4300202: rock9
+    4300204: rock10
+    4300206: rock2
+    4300208: rock3
+    4300210: rock2
+    4300212: rock3
+    4300214: rock7
+    4300216: rock5
+    4300218: rock6
+    4300220: rock8
+    4300222: rock9
+    4300224: rock10
+    4300226: rock8
+    4300228: rock9
+    4300230: rock10
+    4300232: rock2
+    4300234: rock3
+    4300236: rock2
+    4300238: rock3
+    4300240: pPlane1
+    4300242: terrain
+    4300244: pCylinder1
+    4300246: cave
+    4300248: bridge
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

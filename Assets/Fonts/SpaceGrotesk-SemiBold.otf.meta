@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f16ae94e02852ea428acc86165bdeec1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Space Grotesk
+  fontNames:
+  - Space Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 956d1074d6486604f94e6971e1175c65, type: 3}
+  - {fileID: 12800000, guid: 9b9e7e3524c22994db576642848e384b, type: 3}
+  - {fileID: 12800000, guid: 9bdea5b859d7c414a987b4eff3c98097, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
